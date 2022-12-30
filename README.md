@@ -1,8 +1,8 @@
-# Hi, I am Ifechi! 👋
+# Hi, I am Ifechi! ✌🏾
 
 
 ## About Me
-I'm an enthusiatic developer with skills ranging from frontend to backend🙂<br />
+I'm an enthusiatic developer with skills ranging from frontend to backend<br />
 I am a creative photographer when I'm outdoors<br />
 
 
