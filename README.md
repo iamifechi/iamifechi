@@ -3,24 +3,24 @@
 
 
 ## About Me
-I'm an enthusiatic developer with skills ranging from frontend to backend<br />
-I am a creative photographer when I'm outdoors<br />
+I am a Fullstack Developer (Frontend heavy) | ReactJs | React Native | ExpressJs | Photographer. If it's an opportunity to learn, count me in.<br />
 
 
 # 🛠 Skills
 
 ## Programming Language
-HTML5 <br />
-CSS3 <br />
 Javascript <br />
 Typescript <br />
+HTML5 <br />
+CSS3 <br />
 
 ## Frameworks/Library
 NodeJS <br />
+NextJs <br />
 ReactJS <br />
 React Native<br />
-NextJs <br />
-Styled-components <br />
+Ionic Framework <br/>
+Flask <br />
 <br />
 
 ## Database
@@ -36,9 +36,6 @@ MongoDB Realm
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iam_ifechi)
 
 # Where am at📍
-👩‍💻 I am currently working on a cross platform mobile productivity app
-
-🧠 I am also currently interning and learning web3 development at [Genesystechhub](https://genesystechhub.com/)
 
 📫 Get in touch ==> iamifechi@gmail.com
 
