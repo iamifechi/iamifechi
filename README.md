@@ -1,7 +1,7 @@
 # Hi, I am Ifechi! ✌🏾
 
 ## About Me
-I am a Fullstack Developer (Frontend heavy) | ReactJs | React Native | ExpressJs | Photographer. If it's an opportunity to learn, count me in.<br />
+Fullstack Developer (Frontend heavy) | ReactJs | React Native | ExpressJs | Photographer. If it's an opportunity to learn, count me in.<br />
 <br />
 
 
