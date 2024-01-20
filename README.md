@@ -27,6 +27,8 @@ MongoDB Atlas <br />
 MongoDB Realm
 <br />
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iamifechi)](https://git.io/streak-stats)
+
 
 # 🔗 Links
 <!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/ifechi)  -->
