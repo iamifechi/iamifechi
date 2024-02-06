@@ -1,16 +1,13 @@
-# Hi, I am Ifechi! ✌🏾
-
-## About Me
-Fullstack Developer (Frontend heavy) | ReactJs | React Native | ExpressJs | Photographer. If it's an opportunity to learn, count me in.<br />
+# Hi, I am Ifechi!
+I'm a fullstack web and mobile Developer (Frontend heavy)
 <br />
 
 
-# 🛠 Skills
+# 🛠 Some tools I work with
 
 ## Frontend Stack
 NextJs <br />
-ReactJS <br />
-React Native<br />
+ReactJS / React Native<br />
 Ionic Framework <br/>
 Typscript <br />
 Flask <br />
@@ -20,11 +17,11 @@ Styled-Components <br />
 
 ## Backend Stack
 NodeJS <br />
+ExpressJs <br />
 
 ## Database
-MongoDB <br />
-MongoDB Atlas <br />
-MongoDB Realm
+MongoDB, Atlas, Realm<br />
+
 <br />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=iamifechi&theme=whatsapp-dark&border_radius=8&card_width=450)](https://git.io/streak-stats)
