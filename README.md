@@ -27,7 +27,7 @@ MongoDB Atlas <br />
 MongoDB Realm
 <br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=iamifechi&theme=whatsapp-dark&border_radius=8&card_width=1080)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iamifechi&theme=whatsapp-dark&border_radius=8&card_width=450)](https://git.io/streak-stats)
 
 
 # 🔗 Links
