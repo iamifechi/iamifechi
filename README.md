@@ -1,6 +1,9 @@
 # Hi, I am Ifechi!
 I'm a fullstack web and mobile Developer (Frontend heavy)
 <br />
+<br />
+![image](https://www.codewars.com/users/iamifechi/badges/large)
+<br />
 
 
 # 🛠 Some tools I work with
@@ -25,6 +28,9 @@ MongoDB, Atlas, Realm<br />
 <br />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=iamifechi&theme=whatsapp-dark&border_radius=8&card_width=450)](https://git.io/streak-stats)
+
+
+<!-- ![Codewars](https://github.r2v.ch/codewars?user=iamifechi&stroke=%23BB432C) -->
 
 
 # 🔗 Links
