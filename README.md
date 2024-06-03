@@ -1,37 +1,21 @@
 # Hi, I am Ifechi!
-I'm a fullstack web and mobile Developer (Frontend heavy)
-<br />
-<br />
-![image](https://www.codewars.com/users/iamifechi/badges/large)
+I'm a fullstack web and mobile Developer
 <br />
 
+# 🛠
 
-# 🛠 Some tools I work with
-
-## Frontend Stack
-NextJs <br />
-ReactJS / React Native<br />
-Ionic Framework <br/>
-Typscript <br />
-Flask <br />
-TailwindCSS <br />
-Styled-Components <br />
+NextJs | ReactJS / React Native | Ionic Framework | Typscript | Flask | TailwindCSS | Styled-Components 
 <br />
-
-## Backend Stack
-NodeJS <br />
-ExpressJs <br />
-
-## Database
-MongoDB, Atlas, Realm<br />
-
+NodeJS | ExpressJs 
+<br />
+MongoDB, Atlas, Realm <br />
 <br />
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=iamifechi&theme=whatsapp-dark&border_radius=8&card_width=450)](https://git.io/streak-stats)
 
-
-<!-- ![Codewars](https://github.r2v.ch/codewars?user=iamifechi&stroke=%23BB432C) -->
-
+<br />
+![image](https://www.codewars.com/users/iamifechi/badges/large)
+<br />
 
 # 🔗 Links
 <!-- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://linktr.ee/ifechi)  -->
