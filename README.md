@@ -1,5 +1,5 @@
 # Hey, I am Ifechi!
-I'm a fullstack web and mobile Developer
+I am a fullstack web and mobile Developer
 <br />
 
 # 🛠
